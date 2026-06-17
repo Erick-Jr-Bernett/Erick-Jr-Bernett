@@ -23,11 +23,11 @@ Actualmente trabajando en Nexura International.
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Proyectos Destacados
 
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Jr-Bernett&show_icons=true&theme=dark&hide_border=true)
+[![task-api](https://github-readme-stats.vercel.app/api/pin/?username=Erick-Jr-Bernett&repo=task-api&theme=dark&hide_border=true)](https://github.com/Erick-Jr-Bernett/task-api)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Jr-Bernett&layout=compact&theme=dark&hide_border=true)
+[![PruebaNexura](https://github-readme-stats.vercel.app/api/pin/?username=Erick-Jr-Bernett&repo=PruebaNexura&theme=dark&hide_border=true)](https://github.com/Erick-Jr-Bernett/PruebaNexura)
 
 ---
 
