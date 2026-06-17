@@ -27,10 +27,10 @@ Actualmente trabajando en Nexura International.
 
 <p>
   <a href="https://github.com/Erick-Jr-Bernett/task-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Jr-Bernett&repo=task-api&theme=dark&hide_border=true&cache_seconds=1" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Jr-Bernett&repo=task-api&theme=dark&hide_border=true&cache_seconds=1" width="48%"/>
   </a>
   <a href="https://github.com/Erick-Jr-Bernett/PruebaNexura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Jr-Bernett&repo=PruebaNexura&theme=dark&hide_border=true&cache_seconds=1" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Jr-Bernett&repo=PruebaNexura&theme=dark&hide_border=true&cache_seconds=1" width="48%"/>
   </a>
 </p>
 
